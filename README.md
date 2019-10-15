@@ -27,7 +27,7 @@ Bilgisayar Mühendisliği alanında yüksek lisans yaparak alanda uzmanlaşmayı
 
 
  <br/> 
-**İş Deneyimleri** <br/>
+
  
  <br/>
 **1) Atempo Şirketler Grubu – Stajyer Bilgisayar Mühendisi (Temmuz-Ağustos 2017)**<br/>
