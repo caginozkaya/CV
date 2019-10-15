@@ -28,6 +28,7 @@ Bilgisayar Mühendisliği alanında yüksek lisans yaparak alanda uzmanlaşmayı
 **İş Deneyimleri** <br/>
 <br/>
 **1) Atempo Şirketler Grubu – Stajyer Bilgisayar Mühendisi (Temmuz-Ağustos 2017)** <br/>
+<br/>
 Atempo Şirketler Grubunda bulunduğum sürede Algoritma Bilişim A.Ş'de siber güvenlik üzerine pre-sales engineer görevini üstlendim.  SCADA güvenliği ve ağ topolojileri konusunda çalıştım. Barikat Bilişim Güvenliği (Ankara) ve Canovate Data Center and Fiber Optic Solutions (Ankara) firmalarında konuyla ilgili çalışmalar yaptım.<br/>
 
 **2) Elektrik Mühendsileri Odası Ankara Şubesi – Stajyer Bilgisayar Mühendisi (Temmuz-Ağustos 2016)**<br/>
