@@ -23,7 +23,7 @@ PHP ve MySQL ile ilgili LKD'nin kış kampına katıldım.<br/>
 Github adresim: https://github.com/caginozkaya
  <br/>
  <br/>
-**İş Deneyimleri**<br/>
+**İş Deneyimleri** <br/>
 **1) Atempo Şirketler Grubu – Stajyer Bilgisayar Mühendisi (Temmuz-Ağustos 2017)**<br/>
 
   Atempo Şirketler Grubunda bulunduğum sürede Algoritma Bilişim A.Ş'de siber güvenlik üzerine pre-sales engineer görevini üstlendim.  SCADA güvenliği ve ağ topolojileri konusunda çalıştım. Barikat Bilişim Güvenliği (Ankara) ve Canovate Data Center and Fiber Optic Solutions (Ankara) firmalarında konuyla ilgili çalışmalar yaptım.<br/>
@@ -79,6 +79,6 @@ Mühendislik Fakültesi<br/>
 
   Günümüzde sosyal medya, canlı haber kayıtları ve güvenlik kayıtları gibi pek çok alanda kullanılan sayısal video verilerinin miktarı giderek artmaktadır. Oldukça zengin bir içeriğe sahip bu verilerin otomatik yöntemlerle analiz edilmesi ve anlamsal bilgi çıkarımı önemli bir ihtiyaçtır. Projenin amacı, sayısal video verilerinden anlamsal bilgi çıkarımı yapacak ve çok kipli olarak sorgulanmasını sağlayacak bir yazılım çözümünü geliştirmektir. Problem, nesne tanıma, içerik tabanlı ses arama, nesne takibi ve video içerik sorgulama olmak üzere dört kapsamda ele alınmıştır. Video sorgulama için video geri erişim ve sorgu modülü geliştirilmiş ve video verisinin web ortamı üzerinden içerik tabanlı ve anlamsal olarak sorgulanması sağlanmıştır. İki yarıyıllık planlanan projemizde ilk yarıyılda kullanılacak yöntemler belirlenmiş, ikinci yarıyılda ise gerçekleştirim yapılmış, modüller arasındaki tümleştirme işlemleri tamamlanmış ve bir web uygulaması geliştirilmiştir.<br/>
 <br/>
-**Hobiler ve İlgi Alanları**<br/>
+**Hobiler ve İlgi Alanları** <br/>
 Cryptocurrency, elektro gitar, flamenko gitar
 
