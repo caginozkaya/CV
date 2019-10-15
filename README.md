@@ -25,7 +25,7 @@ PHP ve MySQL ile ilgili LKD'nin kış kampına katıldım.<br/>
 
 Bilgisayar Mühendisliği alanında yüksek lisans yaparak alanda uzmanlaşmayı ve askerlik görevini daha sonra yapmayı planlıyorum.
 
- <br/>
+
  <br/>
 **İş Deneyimleri** <br/>
 <br/>
