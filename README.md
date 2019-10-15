@@ -1,10 +1,10 @@
 **Kişisel Bilgiler**
 
-Adı Soyadı:          Çağın Özkaya
-Uyruğu:	      T.C.
-Tel:		      +90 538 712 82 26
-Mail:		      caginozkaya@gmail.com
-Ev Adresi:	      2483. Cadde, Bahar Sitesi, Yasemin C/11, Ümitköy/ANKARA
+Adı Soyadı:          Çağın Özkaya<br/>
+Uyruğu:	      T.C.<br/>
+Tel:		      +90 538 712 82 26<br/>
+Mail:		      caginozkaya@gmail.com<br/>
+Ev Adresi:	      2483. Cadde, Bahar Sitesi, Yasemin C/11, Ümitköy/ANKARA<br/>
 Doğum Yeri:	      Altındağ/Ankara
 Doğum Tarihi:    28.09.1996
 Medeni Durum:  Bekâr
