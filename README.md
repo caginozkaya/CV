@@ -10,7 +10,7 @@ Doğum Tarihi:    28.09.1996<br/>
 Medeni Durum:  Bekâr<br/>
 Sürücü Belgesi:   B, B1, D1, F, M (2026)<br/>
 <br/>
-<br/><br/>
+<br/>
 
 **Özet Bilgi**<br/>
 
