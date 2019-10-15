@@ -54,7 +54,7 @@ Mühendislik Fakültesi
 <br/>
 **Sınav Bilgileri**<br/>
 
-•	ALES : 83.7 (Mayıs 2019)
+•	ALES : 83.7 (Mayıs 2019)<br/>
 •	TOEFL : 94 (Mayıs 2019)
 
 <br/>
