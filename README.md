@@ -50,8 +50,8 @@ Mühendislik Fakültesi
 %100
 <br/>
 **Diploma Notu:**
-3,09/4,00 (Onur Öğrencisi) 
-<br>
+3,09/4,00 (Onur Öğrencisi) <br/>
+
 **Sınav Bilgileri**<br/>
 
 •	ALES : 83.7 (Mayıs 2019)<br/>
