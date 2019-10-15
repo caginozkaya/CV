@@ -14,7 +14,7 @@ Web sayfası: 	      https://github.com/caginozkaya<br/>
 
 **Özet Bilgi**<br/>
 
-  \tLisans eğitimi bitirme projemde nesne tanıma, nesne takibi ve ses parmak izi çıkarımı (Shazam benzeri) gibi konuları ele aldım. Görsel ve işitsel veriler üzerinden web ortamında multimodal sorgular yapılabilen bir sistem geliştirildi. Yapay zeka, sınıflandırma, görüntü işleme ve nesne tanıma konularında deneyim sahibiyim.<br/>
+  <p>TLisans eğitimi bitirme projemde nesne tanıma, nesne takibi ve ses parmak izi çıkarımı (Shazam benzeri) gibi konuları ele aldım. Görsel ve işitsel veriler üzerinden web ortamında multimodal sorgular yapılabilen bir sistem geliştirildi. Yapay zeka, sınıflandırma, görüntü işleme ve nesne tanıma konularında deneyim sahibiyim.</p><br/>
   İlk stajımı Linux sistem yönetimi, Linux bash script yazımı, Linux server yönetimi (Centos, Ubuntu, Debian) üzerine yaptım. Ayrıca Linux sistem yönetimi ile ilgili LKD yaz kampına katıldım. <br/>
   İkinci stajımı siber güvenlik ve SCADA güvenliği üzerine yaptım. Siber güvenlik alanında kullanılan bazı ürünlerin (Tofino-Hirschmann) ve Deep Package Inspection özelliklerini inceledim, çeşitli kurumlarda bu cihazların konfigürasyon ayarlarını ve ağ tasarımlarını yapmakta fiilen görev aldım. ABB PLC (Programmable Logic Controller) programlama konusunda deneyim kazandım. Anomaly detection, threat detection ve file integrity monitoring konularında bilgi sahibiyim. <br/>
   C, C++, C#, Python, PHP, Bootstrap, MATLAB, OpenCV gibi programlama dillerinde ve framework'lerde deneyim sahibiyim.
