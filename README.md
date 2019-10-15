@@ -25,7 +25,7 @@ PHP ve MySQL ile ilgili LKD'nin kış kampına katıldım.<br/>
 
 Bilgisayar Mühendisliği alanında yüksek lisans yaparak alanda uzmanlaşmayı ve askerlik görevini daha sonra yapmayı planlıyorum.
 
-**İş Deneyimleri** 
+**İş Deneyimleri** <br/>
 <br/>
 **1) Atempo Şirketler Grubu – Stajyer Bilgisayar Mühendisi (Temmuz-Ağustos 2017)** <br/>
 Atempo Şirketler Grubunda bulunduğum sürede Algoritma Bilişim A.Ş'de siber güvenlik üzerine pre-sales engineer görevini üstlendim.  SCADA güvenliği ve ağ topolojileri konusunda çalıştım. Barikat Bilişim Güvenliği (Ankara) ve Canovate Data Center and Fiber Optic Solutions (Ankara) firmalarında konuyla ilgili çalışmalar yaptım.<br/>
