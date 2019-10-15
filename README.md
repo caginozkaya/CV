@@ -55,11 +55,9 @@ Mühendislik Fakültesi<br/>
 **Sınav Bilgileri**<br/>
 
 •	ALES : 83.7 (Mayıs 2019)<br/>
-•	TOEFL : 94 (Mayıs 2019)
+•	TOEFL : 94 (Mayıs 2019)<br/>
 
-<br/>
 
- 
 **Seminerler ve Kurslar**<br/>
 
 •	LKD Özgür Yazılım Kış Kampı, PHP ve MySQL ile Web Programlama (9-12 Şubat 2019)<br/>
@@ -80,5 +78,6 @@ Mühendislik Fakültesi<br/>
   Günümüzde sosyal medya, canlı haber kayıtları ve güvenlik kayıtları gibi pek çok alanda kullanılan sayısal video verilerinin miktarı giderek artmaktadır. Oldukça zengin bir içeriğe sahip bu verilerin otomatik yöntemlerle analiz edilmesi ve anlamsal bilgi çıkarımı önemli bir ihtiyaçtır. Projenin amacı, sayısal video verilerinden anlamsal bilgi çıkarımı yapacak ve çok kipli olarak sorgulanmasını sağlayacak bir yazılım çözümünü geliştirmektir. Problem, nesne tanıma, içerik tabanlı ses arama, nesne takibi ve video içerik sorgulama olmak üzere dört kapsamda ele alınmıştır. Video sorgulama için video geri erişim ve sorgu modülü geliştirilmiş ve video verisinin web ortamı üzerinden içerik tabanlı ve anlamsal olarak sorgulanması sağlanmıştır. İki yarıyıllık planlanan projemizde ilk yarıyılda kullanılacak yöntemler belirlenmiş, ikinci yarıyılda ise gerçekleştirim yapılmış, modüller arasındaki tümleştirme işlemleri tamamlanmış ve bir web uygulaması geliştirilmiştir.<br/>
 <br/>
 **Hobiler ve İlgi Alanları** <br/>
+
 Cryptocurrency, elektro gitar, flamenko gitar
 
