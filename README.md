@@ -12,8 +12,8 @@ Sürücü Belgesi:   B, B1, D1, F, M (2026)<br/>
 Web sayfası: 	      https://github.com/caginozkaya<br/>
 <br/><br/>
 
-**Özet Bilgi**
-<br/>
+**Özet Bilgi**<br/>
+
   Lisans eğitimi bitirme projemde nesne tanıma, nesne takibi ve ses parmak izi çıkarımı (Shazam benzeri) gibi konuları ele aldım. Görsel ve işitsel veriler üzerinden web ortamında multimodal sorgular yapılabilen bir sistem geliştirildi. Yapay zeka, sınıflandırma, görüntü işleme ve nesne tanıma konularında deneyim sahibiyim.<br/>
   İlk stajımı Linux sistem yönetimi, Linux bash script yazımı, Linux server yönetimi (Centos, Ubuntu, Debian) üzerine yaptım. Ayrıca Linux sistem yönetimi ile ilgili LKD yaz kampına katıldım. <br/>
   İkinci stajımı siber güvenlik ve SCADA güvenliği üzerine yaptım. Siber güvenlik alanında kullanılan bazı ürünlerin (Tofino-Hirschmann) ve Deep Package Inspection özelliklerini inceledim, çeşitli kurumlarda bu cihazların konfigürasyon ayarlarını ve ağ tasarımlarını yapmakta fiilen görev aldım. ABB PLC (Programmable Logic Controller) programlama konusunda deneyim kazandım. Anomaly detection, threat detection ve file integrity monitoring konularında bilgi sahibiyim. <br/>
@@ -35,21 +35,21 @@ Github adresim: https://github.com/caginozkaya
 **Eğitim Bilgileri**<br/>
 
 **Üniversite:**<br/>
-Başkent Üniversitesi, Ankara (2014-2019)
-<br/>
+Başkent Üniversitesi, Ankara (2014-2019)<br/>
+
 **Fakülte:**<br/>
-Mühendislik Fakültesi
-<br/>
+Mühendislik Fakültesi<br/>
+
 **Bölüm:**<br/>
-%30 İngilizce Bilgisayar Mühendisliği
-<br/>
+%30 İngilizce Bilgisayar Mühendisliği<br/>
+
 **Öğretim Tipi:**<br/>
-Örgün Öğretim
-<br/>
+Örgün Öğretim<br/>
+
 **Burs Tipi:**<br/>
-%100
-<br/>
-**Diploma Notu:**
+%100<br/>
+
+**Diploma Notu:**<br/>
 3,09/4,00 (Onur Öğrencisi) <br/>
 
 **Sınav Bilgileri**<br/>
