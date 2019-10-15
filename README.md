@@ -5,22 +5,22 @@ Uyruğu:	      T.C.<br/>
 Tel:		      +90 538 712 82 26<br/>
 Mail:		      caginozkaya@gmail.com<br/>
 Ev Adresi:	      2483. Cadde, Bahar Sitesi, Yasemin C/11, Ümitköy/ANKARA<br/>
-Doğum Yeri:	      Altındağ/Ankara
-Doğum Tarihi:    28.09.1996
-Medeni Durum:  Bekâr
-Sürücü Belgesi:   B, B1, D1, F, M (2026)
-Web sayfası: 	      https://github.com/caginozkaya
-
+Doğum Yeri:	      Altındağ/Ankara<br/>
+Doğum Tarihi:    28.09.1996<br/>
+Medeni Durum:  Bekâr<br/>
+Sürücü Belgesi:   B, B1, D1, F, M (2026)<br/>
+Web sayfası: 	      https://github.com/caginozkaya<br/>
+<br/><br/>
 
 **Özet Bilgi**
-  Lisans eğitimi bitirme projemde nesne tanıma, nesne takibi ve ses parmak izi çıkarımı (Shazam benzeri) gibi konuları ele aldım. Görsel ve işitsel veriler üzerinden web ortamında multimodal sorgular yapılabilen bir sistem geliştirildi. Yapay zeka, sınıflandırma, görüntü işleme ve nesne tanıma konularında deneyim sahibiyim.
-  İlk stajımı Linux sistem yönetimi, Linux bash script yazımı, Linux server yönetimi (Centos, Ubuntu, Debian) üzerine yaptım. Ayrıca Linux sistem yönetimi ile ilgili LKD yaz kampına katıldım. 
-  İkinci stajımı siber güvenlik ve SCADA güvenliği üzerine yaptım. Siber güvenlik alanında kullanılan bazı ürünlerin (Tofino-Hirschmann) ve Deep Package Inspection özelliklerini inceledim, çeşitli kurumlarda bu cihazların konfigürasyon ayarlarını ve ağ tasarımlarını yapmakta fiilen görev aldım. ABB PLC (Programmable Logic Controller) programlama konusunda deneyim kazandım. Anomaly detection, threat detection ve file integrity monitoring konularında bilgi sahibiyim. 
+  Lisans eğitimi bitirme projemde nesne tanıma, nesne takibi ve ses parmak izi çıkarımı (Shazam benzeri) gibi konuları ele aldım. Görsel ve işitsel veriler üzerinden web ortamında multimodal sorgular yapılabilen bir sistem geliştirildi. Yapay zeka, sınıflandırma, görüntü işleme ve nesne tanıma konularında deneyim sahibiyim.<br/>
+  İlk stajımı Linux sistem yönetimi, Linux bash script yazımı, Linux server yönetimi (Centos, Ubuntu, Debian) üzerine yaptım. Ayrıca Linux sistem yönetimi ile ilgili LKD yaz kampına katıldım. <br/>
+  İkinci stajımı siber güvenlik ve SCADA güvenliği üzerine yaptım. Siber güvenlik alanında kullanılan bazı ürünlerin (Tofino-Hirschmann) ve Deep Package Inspection özelliklerini inceledim, çeşitli kurumlarda bu cihazların konfigürasyon ayarlarını ve ağ tasarımlarını yapmakta fiilen görev aldım. ABB PLC (Programmable Logic Controller) programlama konusunda deneyim kazandım. Anomaly detection, threat detection ve file integrity monitoring konularında bilgi sahibiyim. <br/>
   C, C++, C#, Python, PHP, Bootstrap, MATLAB, OpenCV gibi programlama dillerinde ve framework'lerde deneyim sahibiyim.
-PHP ve MySQL ile ilgili LKD'nin kış kampına katıldım.
+PHP ve MySQL ile ilgili LKD'nin kış kampına katıldım.<br/>
   Bilgisayar Mühendisliği alanında yüksek lisans yaparak alanda uzmanlaşmayı ve askerlik görevini daha sonra yapmayı planlıyorum.
 Github adresim: https://github.com/caginozkaya
- 
+ <br/><br/>
 **İş Deneyimleri**
 **1) Atempo Şirketler Grubu – Stajyer Bilgisayar Mühendisi (Temmuz-Ağustos 2017)**
 
